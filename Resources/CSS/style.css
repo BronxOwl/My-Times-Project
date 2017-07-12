@@ -1,0 +1,132 @@
+
+.Container{
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+  font-family: Verdana
+
+}
+.MYT{
+  display:inline-block;
+  float:left;
+}
+
+.time{
+  display:inline-block;
+  color: mediumAquamarine;
+  padding-left: 8px;
+}
+.nav{
+  height: 40px;
+  float: right;
+  margin-right: 0;
+  padding-right: 80px;
+}
+.nav li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 25px;
+}
+
+.nav a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.nav a:hover{
+  color: mediumaquamarine;
+}
+
+.line{
+  width: 100;
+  border-bottom: 1px solid black;
+  padding-top: 4px;
+}
+
+.main{
+  border: 2px solid black;
+  display: flex;
+}
+.side{
+  border: 5px solid black;
+}
+.first{
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.second{
+  border: 2px solid black;
+}
+
+.third{
+  border: 2px solid black;
+}
+
+.try{
+  border: 2px solid black;
+}
+
+.fourth{
+  border: 2px solid black;
+}
+
+.fifth{
+  border: 2px solid black;
+}
+
+.fiveone{
+  border: 2px solid black;
+}
+.six{
+  border: 2px solid black;
+}
+
+.seven{
+  border: 2px solid black;
+}
+
+.eight{
+  border: 2px solid black;
+}
+
+.nine{
+  border: 2px solid black;
+}
+
+.nineone{
+  border: 2px solid black;
+}
+
+.ten{
+  border: 2px solid black;
+}
+
+.tenone{
+  border: 2px solid black;
+}
+
+.eleven{
+  border: 2px solid black;
+}
+.zero{
+  border: 8px solid black;
+  hieght: 100px;
+  width: 100px;
+}
+.column.large {
+  display: flex;
+  width: 630px;
+}
+
+.column.medium {
+  display: flex;
+  width: 300px;
+}
+
+.column.small {
+  display: flex;
+  width: 240px;
+}
